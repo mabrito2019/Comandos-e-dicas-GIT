@@ -99,7 +99,7 @@ git remote
 git remote -v
 
 ### Vincular repositório local com um repositório remoto
-git remote add origin git@github.com:comelli/curso-git.git
+git remote add origin git@github.com:exemplo/projeto-alvo.git
 
 ### Exibir informações dos repositórios remotos
 git remote show origin
